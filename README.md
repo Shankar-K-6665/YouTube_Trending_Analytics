@@ -4,63 +4,65 @@ A simple and clear analysis of YouTube Trending Videos using Python, SQL, and Po
 The project identifies trends in views, categories, sentiment, and regional performance across multiple countries.
 
 
-# YouTube-Trending-Analytics/
+YouTube-Trending-Analytics/
 │
 ├── data/
 │   ├── raw/
-|   |   ├── GB_category_id.json
-|   |   ├── IN_category_id
-|   |   ├── US_category_id
-|   |   ├── GBvideos.csv
-|   |   ├── INvideos.csv
-|   |   ├── USvideos.csv
-|   |
+│   │   ├── GB_category_id.json
+│   │   ├── IN_category_id.json
+│   │   ├── US_category_id.json
+│   │   ├── GBvideos.csv
+│   │   ├── INvideos.csv
+│   │   ├── USvideos.csv
+│   │
 │   ├── cleaned/
-|   |   ├── cleaned_youtube
-|   |   ├── cleaned_youtube_with_sentiment.csv
-|   |   ├── cleaned_sql_ready.csv
+│       ├── cleaned_youtube.csv
+│       ├── cleaned_youtube_with_sentiment.csv
+│       ├── cleaned_sql_ready.csv
 │
 ├── notebooks/
-│   ├── 01_cleaning.ipynb        
-│   ├── 02_sentiment.ipynb   
-|   ├── 03_powerbi_preparation.ipynb
+│   ├── 01_cleaning.ipynb
+│   ├── 02_sentiment.ipynb
+│   ├── 03_powerbi_preparation.ipynb
 │
 ├── sql/
-│   ├── create_tables.sql     
-│   ├── analytics_queries.sql  
-|   |   
-|   ├── sql_output/
-|   |   ├── category_avg_views.csv
-|   |   ├── sentiment_distribution.csv
-|   |   ├── time_series_views.csv
-|   |   ├── top_channels.csv
-|   |   ├── trending_duration.csv
-|   |
-|   ├── screenshots/
-|   |   ├── 1_Database created.png
-|   |   ├── 2_Table created.png
-|   |   ├── 3_CSV import success.png
-|   |   ├── 4_SQL queries.png
-|   |   ├── 5_SQL queries.png
-|   |   ├── 6_SQL queries.png
-|   |   ├── 7_SQL queries.png
-|   |   ├── 8_SQL queries.png
+│   ├── create_tables.sql
+│   ├── analytics_queries.sql
+│   │
+│   ├── sql_output/
+│       ├── category_avg_views.csv
+│       ├── sentiment_distribution.csv
+│       ├── time_series_views.csv
+│       ├── top_channels.csv
+│       ├── trending_duration.csv
+│
+│   ├── screenshots/
+│       ├── 1_Database_created.png
+│       ├── 2_Table_created.png
+│       ├── 3_CSV_import_success.png
+│       ├── 4_SQL_queries_part1.png
+│       ├── 5_SQL_queries_part2.png
+│       ├── 6_SQL_queries_part3.png
+│       ├── 7_SQL_queries_part4.png
+│       ├── 8_SQL_queries_part5.png
 │
 ├── powerbi/
-│   ├── YouTube_Dashboard.pbix 
+│   ├── YouTube_Dashboard.pbix
+│   │
 │   ├── screenshots/
-│   |   ├── 1_YouTube_Trending_Analytics_dashboard.png
-│   |   ├── 2_map_visual.png
-│   |   ├── 3_Trending views.png
-│   |   ├── 4_Top YouTube channels.png
-│   |   ├── 5_Sentiment distribution.png
-│   |   ├── 6_Average Views by Category,png
+│       ├── 1_YouTube_Trending_Analytics_dashboard.png
+│       ├── 2_map_visual.png
+│       ├── 3_Trending_views.png
+│       ├── 4_Top_YouTube_channels.png
+│       ├── 5_Sentiment_distribution.png
+│       ├── 6_Average_Views_by_Category.png
 │
 ├── docs/
-│   ├── Youtube_Treanding_Dashboard.pdf    
+│   ├── YouTube_Trending_Dashboard.pdf
 │   ├── YouTube_Trending_Analytics_Report.pdf
-|    
+│
 └── README.md
+
 
 
 # What This Project Includes
