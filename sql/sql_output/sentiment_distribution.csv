@@ -1,0 +1,11 @@
+country,sentiment_label,total_videos
+60,NULL,2
+64,NULL,1
+67,NULL,1
+82,NULL,1
+IN,Neutral,6557
+IN,Positive,2050
+IN,Negative,1287
+US,Neutral,9564
+US,Positive,4725
+US,Negative,3436

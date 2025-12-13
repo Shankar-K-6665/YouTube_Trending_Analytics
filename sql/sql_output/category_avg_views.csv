@@ -1,0 +1,38 @@
+country,category_name,avg_views
+US,Music,3984698.6070
+IN,"Pets & Animals",2244679.0000
+US,"Film & Animation",2076821.1445
+IN,Gaming,2061834.8462
+US,Entertainment,1909796.7208
+US,"Autos & Vehicles",1819552.0922
+US,Sports,1787235.9990
+IN,Music,1661059.5244
+US,Gaming,1511321.8408
+US,"Nonprofits & Activism",1403561.2143
+US,"People & Blogs",1255719.5095
+US,Comedy,1220144.8631
+IN,"Film & Animation",1004392.6565
+IN,Sports,998349.9552
+US,"Travel & Events",981386.5652
+US,"Science & Technology",955441.5131
+US,"Howto & Style",893691.9550
+IN,Entertainment,699178.9177
+IN,"Howto & Style",660233.1594
+US,"Pets & Animals",623530.5459
+IN,Comedy,620984.2497
+US,Education,601713.8649
+IN,Shows,585758.4310
+60,0.0,408531.0000
+US,Shows,408331.8571
+US,"News & Politics",382423.1109
+67,0.0,352948.0000
+IN,"Science & Technology",348840.7911
+IN,"People & Blogs",284712.7976
+IN,"Autos & Vehicles",280660.9000
+64,0.0,279760.0000
+IN,Movies,245663.0000
+IN,"News & Politics",216246.1811
+IN,"Travel & Events",151826.2500
+IN,Education,102181.1021
+IN,,50446.8387
+82,-0.25,3556.0000
