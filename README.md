@@ -1,4 +1,4 @@
-# Youtube_Trending_Analytics (Main Project For Elevate Labs Internship)
+# YouTube_Trending_Analytics (Main Project For Elevate Labs Internship)
 
 A simple and clear analysis of YouTube Trending Videos using Python, SQL, and Power BI.
 The project identifies trends in views, categories, sentiment, and regional performance across multiple countries.
