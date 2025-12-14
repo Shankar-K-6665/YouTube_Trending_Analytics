@@ -3,7 +3,7 @@
 A simple and clear analysis of YouTube Trending Videos using Python, SQL, and Power BI.
 The project identifies trends in views, categories, sentiment, and regional performance across multiple countries]
 
-[DashBoard_View](https://github.com/Shankar-K-6665/YouTube_Trending_Analytics/blob/master/powerbi/screenshots/1_YouTube_Trending_Analytics_dashboard.png)
+[DashBoard View](https://github.com/Shankar-K-6665/YouTube_Trending_Analytics/blob/master/powerbi/screenshots/1_YouTube_Trending_Analytics_dashboard.png)
 
 # What This Project Includes
 
