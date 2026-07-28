@@ -26,7 +26,7 @@ The project identifies trends in views, categories, sentiment, and regional perf
 - Sentiment Distribution (Donut Chart)
 - Average Views by Category (Bar Chart)
 - Top Channels (Bar Chart)
-- Country-wise Views Maps
+- Country-wise Views Map
 - Likes vs Views (Engagement Scatter Plot)
 
 # Key Insights
