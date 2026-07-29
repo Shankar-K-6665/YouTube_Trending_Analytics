@@ -9,7 +9,7 @@ The project identifies trends in views, categories, sentiment, and regional perf
 
 - Cleaned & combined YouTube datasets (US, IN, GB, etc.)
 - Python preprocessing (date cleaning, sentiment labeling, feature extraction)
-- SQL analytics for category performance, top channels, sentiment, and time-series trends
+- SQL analytics for categry performance, top channels, sentiment, and time-series trends
 - Power BI dashboard with interactive visuals and KPIs
 
 # Files Included
