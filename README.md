@@ -15,7 +15,7 @@ The project identifies trends in views, categories, sentiment, and regional perf
 # Files Included
 
 - Cleaned datasets (cleaned_sql_ready.csv, cleaned_youtube.csv)
-- SQL output files (time-series, top channels, categories, sentiment)
+- SQL output file's (time-series, top channels, categories, sentiment)
 - Power BI dashboard (YouTube_Dashboard.pbix)
 - Final report (YouTube_Trending_Analytics_Report.pdf)
 
